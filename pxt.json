@@ -1,0 +1,30 @@
+{
+    "name": "シューティングゲーム（MCA超入門コース）ボスキャラ有",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.53",
+        "tag": "v1.12.53",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/68ac01b09ebda8b6baba806d4b60e80553848600",
+        "target": "2.0.56",
+        "pxt": "8.5.63",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
